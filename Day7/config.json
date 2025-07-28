@@ -1,0 +1,7 @@
+{
+    "initial_bot_message": "Chào bạn, tôi là PhoBot. Tôi có thể giúp bạn điều gì?",
+    "functions": [
+        "giới thiệu nhà hàng",
+        "giới thiệu menu"
+    ]
+}

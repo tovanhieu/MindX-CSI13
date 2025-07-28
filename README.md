@@ -6,3 +6,4 @@
 #### Buổi 3: https://youtu.be/wJAV2WQRoBI
 #### Buổi 4: https://youtu.be/4kUzBSNTjEI
 #### Buổi 6: https://youtu.be/k-t9o4CTIUw
+#### Buổi 7: https://youtu.be/WDsZLXm_xRQ
